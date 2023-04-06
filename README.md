@@ -35,7 +35,7 @@ The dataset is based on the 2016 NYC Yellow Cab trip record data made available 
 
 ## Project Code and Approach
 
-The full code for this article can be found [here](https://github.com/yourusername/yourproject). The code is implemented in Python, and various machine learning algorithms are utilized. Below is a brief description of the general approach employed:
+The full code for this article can be found [here](https://github.com/prasantsahoo107/NYC-Taxi-Trip-Time-Prediction-ML-Regression). The code is implemented in Python, and various machine learning algorithms are utilized. Below is a brief description of the general approach employed:
 
 ### Data Loading and General Checkups
 
