@@ -2,7 +2,11 @@
 
 ## Project Description
 
-The recent developments in technology have caused significant changes in the transportation sector. New York City is one of the most technologically sophisticated cities in the world when it comes to transit. With the advent of app-based services like Uber and Lyft, the cab business in New York City has experienced major changes in recent years. The main objective of this project is to develop a prediction algorithm that will help determine and predict the trip duration of a taxi.
+The recent rapid developments in technology have caused the transportation sector to change considerably. The need for transportation has grown significantly as a result of the world's population surpassing 7 billion. The need for mobility has joined the three fundamental needs of food, water, and shelter, which has prompted the development of more effective forms of transit like internet- and app-based systems.
+
+New York City is one of the places that has embraced this technology and made significant advancements in transportation. With a comprehensive network of subways, buses, and taxi services, New York City is one of the most technologically sophisticated cities in the world when it comes to transit. There are more than 10,000 taxis in the metropolis, and more than 100 million taxi journeys take place annually. It's interesting to note that almost 50% of city residents don't own a personal car, which means that many depend heavily on cabs as their main form of transportation.
+
+With the advent of app-based services like Uber and Lyft, the cab business in New York City has experienced major changes in recent years. These services have simplified the processes for booking, tracking, and paying for taxis. The rivalry in the cab industry has grown as a result of the app-based services, leading to better services and reduced costs for consumers.A great illustration of how technology can transform transportation and make it more effective, cheap, and available to everyone is New York City. The introduction of app-based services has made it simpler and more practical for people to get around the city, and the city's taxi business has adjusted to these changes.
 
 ## Problem Statement
 
